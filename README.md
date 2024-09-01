@@ -1,6 +1,6 @@
 # flutter_broadcast_receiver_example
 
-A new Flutter project.
+A new Flutter project. This is useful when sending data from dart to native in Android.
 
 ## Getting Started
 
